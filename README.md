@@ -8,5 +8,5 @@ If you use this dataset, please cite it as follows:
   author = {Sandhya A Kulkarni},
   title = {Code-Mixed Sentiment Analysis Dataset},
   year = {2026},
-  howpublished = {\url{https://github.com/SandhyaAKulkarni/dataset-Sentiment-Analysisnew}}
+  howpublished = {\url{https://github.com/SandhyaAKulkarni/dataset-Sentiment-Analysisnew}
 }
